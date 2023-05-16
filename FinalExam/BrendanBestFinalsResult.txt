@@ -1,0 +1,77 @@
+Test1:
+
+1
+2 HiTwo
+3 HiThreeOrSeven
+4 HiTwo
+5 HiFive
+6 HiTwo
+7 HiThreeOrSeven
+8 HiTwo
+9 HiThreeOrSeven
+10 HiFive
+11
+12 HiTwo
+13
+14 HiTwo
+15 HiFive
+16 HiTwo
+17
+18 HiTwo
+19
+20 HiFive
+21 HiThreeOrSeven
+22 HiTwo
+23
+24 HiTwo
+25 HiFive
+26 HiTwo
+27 HiThreeOrSeven
+28 HiTwo
+29
+30 HiFive
+31
+32 HiTwo
+33 HiThreeOrSeven
+34 HiTwo
+35 HiFive
+36 HiTwo
+37
+38 HiTwo
+39 HiThreeOrSeven
+40 HiFive
+41
+42 HiTwo
+43
+44 HiTwo
+45 HiFive
+46 HiTwo
+47
+48 HiTwo
+49 HiThreeOrSeven
+50 HiFive
+
+Test2:
+
+  i     m(i)  
+----   --------
+  1     0.3333
+ 11     4.8878
+ 21     9.7363
+ 31    14.6427
+ 41    19.5747
+ 51    24.5213
+
+TestRev:
+
+before reverse
+list1:[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+list2:[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+after invoking reverse
+list1:[10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+list2:[11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+
+Test4:
+
+Enter a number : 50
+Last 7 primes in ascending order : 23 29 31 37 41 43 47 
