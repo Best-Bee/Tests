@@ -1,0 +1,12 @@
+MidTerm:
+Enter a decimal (double) number : 9.375
+you enter > 9.375
+decimal 9.375 is 1001.011
+
+Enter a decimal (double) number : 55
+you enter > 55.0
+decimal 55.0 is 110111.
+
+Enter a decimal (double) number : 7.78
+you enter > 7.78
+decimal 7.78 is 111.11000111101011100001010

@@ -1,0 +1,18 @@
+Test 1:
+
+Enter an integer: 6
+Georgia
+
+Test 2:
+
+Enter an integer: 15
+HiFive Georgia
+
+Test 3:
+
+Enter an integer: 25
+HiFive
+
+Test 4:
+
+Enter an integer: 1

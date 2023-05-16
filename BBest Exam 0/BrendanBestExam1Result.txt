@@ -1,0 +1,21 @@
+YenConverter:
+
+Enter the exchange rate from dollars to YEN: 119.85
+Enter 0 to convert dollars to YEN and 1 vice versa: 0
+Enter the dollar amount: 100
+$100.0 is 11985.0 Yen
+
+******run 2
+
+Enter the exchange rate from dollars to YEN: 119.85
+Enter 0 to convert dollars to YEN and 1 vice versa: 1
+Enter the YEN amount: 100000
+100000.0 YEN is $834.38
+
+SumTotal:
+
+Adding number 1 to 50 using while loop.
+Sum total is : 1275
+Adding number 1 to 50 not include number divisible by 7 using for
+loop.
+Sum total is : 1079
